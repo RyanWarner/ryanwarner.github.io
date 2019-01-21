@@ -8,6 +8,8 @@ tags:
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
+Testing a gist
+
 {% gist c08ee0f2726fd0e3909d %}
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
