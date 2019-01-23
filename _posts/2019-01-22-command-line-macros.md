@@ -15,14 +15,14 @@ First install [Itermocil](https://github.com/TomAnthony/itermocil) for pre-confi
 
 ```
 $ brew update && brew install TomAnthony/brews/itermocil
-$ mkdir ~/.itermocil && touch ~/.itermocil/project-name.yml && open ~/.itermocil/project-name.yml
+$ mkdir ~/.itermocil && touch ~/.itermocil/projectname.yml && open ~/.itermocil/projectname.yml
 ```
 
 Paste in this layout:
 
 ```
 windows:
-  - name: project-name
+  - name: projectname
     root: /path/to/project
     layout: even-horizontal
     panes:
@@ -38,7 +38,21 @@ You can test this by typing `itermocil layout` in iTerm2.
 To make this process even faster (9 keystrokes faster) setup an alias for each of your layouts.
 
 ```
-$ echo 'alias project-name = "itermocil project-name"' >>~/.bash_profile
+$ echo 'alias projectname = "itermocil projectname"' >>~/.bash_profile
 $ souce ~/.bash_profile
-$ project-name
+$ projectname
+```
+
+You could take this a step further by opening VS Code to your project directory as part of the same alias.
+
+[Add `code` to your shell](https://stackoverflow.com/questions/29963617/how-to-call-vs-code-editor-from-command-line) by following these steps (These are Mac instructions, check the link for other platforms):
+
+1. Open VS Code
+2. Press `F1` and search "shell"
+3. Click on `Shell Command: Install 'code' command in PATH`
+
+Now update your alias:
+
+```
+alias projectname = "itermocil projectname && code path/to/project/dir"
 ```
