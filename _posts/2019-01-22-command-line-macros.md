@@ -7,7 +7,9 @@ tags:
   - freelance
 ---
 
-I often need to switch between multiple projects, or maybe I'm just getting started for the day. Spending time booting up these project environments becomes a big waste.
+I often need to switch between multiple projects, or maybe I'm just getting started for the day. Spending time booting up these project environments is a waste.
+
+These steps assume you use Mac, iTerm2, and VSCode
 
 ## Itermocil
 
@@ -39,7 +41,7 @@ To make this process even faster (9 keystrokes faster) setup an alias for each o
 
 ```
 $ echo 'alias projectname = "itermocil projectname"' >>~/.bash_profile
-$ souce ~/.bash_profile
+$ source ~/.bash_profile
 $ projectname
 ```
 
