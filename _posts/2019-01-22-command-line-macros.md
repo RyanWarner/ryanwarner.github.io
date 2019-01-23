@@ -7,7 +7,7 @@ tags:
   - freelance
 ---
 
-I sometimes need to switch between multiple projects, or maybe I'm just getting started for the day. Spending time booting up these project environments becomes a big waste.
+I often need to switch between multiple projects, or maybe I'm just getting started for the day. Spending time booting up these project environments becomes a big waste.
 
 ## Itermocil
 
