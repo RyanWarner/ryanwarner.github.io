@@ -30,7 +30,7 @@ Here's my `<project>.code-workspace`
     {
       "path": "."
     }
-	],
+  ],
   "settings": {
     "workbench.colorCustomizations": {
       "sideBar.background": "#202021",
