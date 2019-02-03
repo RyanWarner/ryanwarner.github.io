@@ -26,10 +26,10 @@ I use the product's branding for color choices. Here's the settings I use. You c
 Here's my `<project>.code-workspace`
 ```
 {
-	"folders": [
-		{
-			"path": "."
-		}
+  "folders": [
+    {
+      "path": "."
+    }
 	],
   "settings": {
     "workbench.colorCustomizations": {
