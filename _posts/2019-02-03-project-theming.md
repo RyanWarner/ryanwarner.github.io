@@ -43,7 +43,23 @@ Here's my `<project>.code-workspace`
 }
 ```
 
-# Custom Folder Icons
+# Slack Themes
+
+Slack comes with a number of preset theme options, but you can override these themes to your liking.
+
+1. Navigate to your workspace's preferences.
+
+    ![Preferences](/images/slackTheme/01_preferences.png)
+
+2. Select "Sidebar" and scroll all the way down to the bottom. If you don't see the Custom Theme option, you may need to click advanced options.
+
+    ![Sidebar](/images/slackTheme/02_sidebar.png)
+
+3. I tend to set "Active Item" to the brand's primary color.
+
+    ![Theme](/images/slackTheme/03_theme.png)
+
+# System Level Folder Icons
 
 End result:
 ![Folder Icons](/images/customFolderIcon/07_result.png)
@@ -78,22 +94,16 @@ I've created the directory, but it still has the default folder icon.
 
     ![Result](/images/customFolderIcon/07_result.png)
 
-# Slack Themes
 
-Slack comes with a number of preset theme options, but you can override these themes to your liking.
+# Notion Icons
 
-1. Navigate to your workspace's preferences.
+![Notion](/images/customFolderIcon/01_notion.png)
 
-    ![Preferences](/images/slackTheme/01_preferences.png)
+Notion lets you set custom icons per page.
 
-2. Select "Sidebar" and scroll all the way down to the bottom. If you don't see the Custom Theme option, you may need to click advanced options.
+![Notion](/images/customFolderIcon/02_chooseFile.png)
 
-    ![Sidebar](/images/slackTheme/02_sidebar.png)
-
-3. I tend to set "Active Item" to the brand's primary color.
-
-    ![Theme](/images/slackTheme/03_theme.png)
-
+Click on the icon for the page you want to change and then select your preferred image.
 
 # Conclusion
 
