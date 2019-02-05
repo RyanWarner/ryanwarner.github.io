@@ -10,7 +10,7 @@ tags:
 
 Theming the tools I use everyday helps me move efficiently between projects' windows and applications. I can tell what project a particular instance of VSCode is without needing to read a word.
 
-In this post, I will detail step by step instructions to theme VSCode, Mac Folder Icons, and Slack. If there are any tools you use not listed here, [let me know](https://twitter.com/attackrunryan).
+In this post, I will detail step by step instructions to theme VSCode, Mac Folder Icons, Slack, and Notion. If there are any tools you use not listed here, [let me know](https://twitter.com/attackrunryan).
 
 #### Table of Contents
 
@@ -45,7 +45,7 @@ Here's my `<project>.code-workspace`
       "editor.background": "#202021",
       "titleBar.border": "#5B26AF",
       "titleBar.activeForeground": "#E450AE"
-    },
+    }
   }
 }
 ```
