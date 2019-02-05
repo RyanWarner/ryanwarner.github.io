@@ -12,8 +12,13 @@ Theming the tools I use everyday helps me move efficiently between projects' win
 
 In this post, I will detail step by step instructions to theme VSCode, Mac Folder Icons, and Slack. If there are any tools you use not listed here, [let me know](https://twitter.com/attackrunryan).
 
+[VSCode per-workspace color overrides](#vscode)
+[Slack Themes](#slack)
+[System Level Folder Icons](#system)
+[Notion Icons](#notion)
 
-# VSCode per-workspace color overrides
+
+# <a name="vscode">VSCode per-workspace color overrides
 I use the product's branding for color choices. Here's the settings I use. You could take this much further, but I mainly use the `titleBar` and `statusBar`.
 
 ![VSCode Workspace Theming](/images/vscode-theming.png)
@@ -43,7 +48,7 @@ Here's my `<project>.code-workspace`
 }
 ```
 
-# Slack Themes
+# <a name="slack">Slack Themes
 
 Slack comes with a number of preset theme options, but you can override these themes to your liking.
 
@@ -59,7 +64,7 @@ Slack comes with a number of preset theme options, but you can override these th
 
     ![Theme](/images/slackTheme/03_theme.png)
 
-# System Level Folder Icons
+# <a name="system">System Level Folder Icons
 
 End result:
 ![Folder Icons](/images/customFolderIcon/07_result.png)
@@ -95,7 +100,7 @@ I've created the directory, but it still has the default folder icon.
     ![Result](/images/customFolderIcon/07_result.png)
 
 
-# Notion Icons
+# <a name="notion"></a>Notion Icons
 
 ![Notion](/images/notionTheme/01_notion.png)
 
