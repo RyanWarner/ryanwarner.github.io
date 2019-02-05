@@ -2,10 +2,11 @@
 layout: post
 title: Theming My Tools Per Project
 tags:
-  - iterm2
   - vscode
   - theme
   - mac
+  - notion
+  - icons
 ---
 
 Theming the tools I use everyday helps me move efficiently between projects' windows and applications. I can tell what project a particular instance of VSCode is without needing to read a word.
