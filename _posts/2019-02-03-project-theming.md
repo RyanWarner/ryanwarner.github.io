@@ -93,3 +93,8 @@ Slack comes with a number of preset theme options, but you can override these th
 3. I tend to set "Active Item" to the brand's primary color.
 
     ![Theme](/images/slackTheme/03_theme.png)
+
+
+# Conclusion
+
+I hope this gave you some inspiration in ways to theme your apps on a per project level. Please feel free to [suggest improvements]((https://twitter.com/attackrunryan)) to my list.
