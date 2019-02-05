@@ -97,11 +97,11 @@ I've created the directory, but it still has the default folder icon.
 
 # Notion Icons
 
-![Notion](/images/customFolderIcon/01_notion.png)
+![Notion](/images/notion/01_notion.png)
 
 Notion lets you set custom icons per page.
 
-![Notion](/images/customFolderIcon/02_chooseFile.png)
+![Notion](/images/notion/02_chooseFile.png)
 
 Click on the icon for the page you want to change and then select your preferred image.
 
