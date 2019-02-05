@@ -12,10 +12,12 @@ Theming the tools I use everyday helps me move efficiently between projects' win
 
 In this post, I will detail step by step instructions to theme VSCode, Mac Folder Icons, and Slack. If there are any tools you use not listed here, [let me know](https://twitter.com/attackrunryan).
 
-[VSCode per-workspace color overrides](#vscode)
-[Slack Themes](#slack)
-[System Level Folder Icons](#system)
-[Notion Icons](#notion)
+#### Table of Contents
+
+- [VSCode per-workspace color overrides](#vscode)
+- [Slack Themes](#slack)
+- [System Level Folder Icons](#system)
+- [Notion Icons](#notion)
 
 
 # <a name="vscode">VSCode per-workspace color overrides
