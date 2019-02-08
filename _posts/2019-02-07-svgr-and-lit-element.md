@@ -17,3 +17,5 @@ Svgr converts svgs I export from Sketch into React components. It strips out all
 # [lit-element](https://github.com/Polymer/lit-element)
 
 LitElement seems like an innovative way to style my React apps. I haven't tried this first hand yet, but this is on my list of things to check back in on.
+
+I was turned on to LitElement via this [tweet](https://twitter.com/justinfagnani/status/1093229305662889985)
