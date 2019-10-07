@@ -7,8 +7,6 @@ tags:
   - lazy loading
 ---
 
-# Code Splitting & Lazy Loading a Server Side Rendered React app
-
 ## Reasoning, approach, and goals
 
 ### Goals
